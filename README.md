@@ -95,6 +95,6 @@ Para preguntas o colaboraciones, puedes contactarme a través de mis redes:
 
 ## Agradecimientos
 
-Me gustaría agradecer a todo el equipo de Benilaser por hacer posible esta colaboración.
+Me gustaría agradecer a todo el equipo de Seginda Línea por hacer posible esta colaboración.
 
 [Volver al inicio](#segunda-línea---sitio-web-servidor)
