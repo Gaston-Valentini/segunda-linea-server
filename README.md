@@ -1,4 +1,4 @@
-# Segunda Línea - Sitio web (servidor)
+# Segunda Línea Gastrobar - Sitio web (servidor)
 
 <img src="./public/logo-gold.png" width="100%"/>
 
@@ -17,17 +17,16 @@
 
 ## Descripción del proyecto y objetivo
 
-Este proyecto consiste en el desarrollo de un pequeño servidor intermedio para la página web de [Segunda Línea](https://www.segundalineagastrobar.es),
-un restaurante ubicado precisamente en segunda línea de playa en Benidorm, Alicante, España. El desarrollo de este proyecto se realizó con el objetivo
-de complementar al [proyecto cliente](https://github.com/Gaston-Valentini/segunda-linea-client), ya que fué necesario configurar un servidor
-intermedio para hacer las peticiones de las reseñas a la API de Google y que este servidor a su vez envíe la información al cliente, y así evitar
-poroblemas de CORS.
+Este proyecto consiste en el desarrollo de un pequeño servidor intermedio para la página web de [Segunda Línea](https://www.segundalineagastrobar.es), un restaurante ubicado precisamente en segunda
+línea de playa en Benidorm, Alicante, España. El desarrollo de este proyecto se realizó con el objetivo de complementar al [proyecto cliente](https://github.com/Gaston-Valentini/segunda-linea-client),
+ya que fué necesario configurar un servidor intermedio para hacer las peticiones de las reseñas a la API de Google y que este servidor a su vez envíe la información al cliente, y así evitar poroblemas
+de CORS.
 
 ## Tecnologías
 
 -   <img src="./public/node.png" style="height: 15px"/> **Node:** Se utilizó como entorno de desarrollo.
 -   <img src="./public/javascript.png" style="height: 15px"/> **JavaScript:** Se utilizó como lenguaje de programación.
--   <img src="./public/express.png" style="height: 15psx"/> **Express:** Se utilizó como freamwork para facilitar el desarrollo del servidor.
+-   <img src="./public/express.png" style="height: 15px"/> **Express:** Se utilizó como freamwork para facilitar el desarrollo del servidor.
 -   <img src="./public/npm.png" style="height: 15px"/> **Npm:** Se utilizó para la incorporación de librerías como express, helmet, morgan, etc.
 -   <img src="./public/vercel.png" style="height: 15px"/> **Vercel:** Se utilizó para el despligue de la aplicación.
 
@@ -63,7 +62,7 @@ Para correr este servicio de manera local deberá seguir los siguientes pasos:
 ## Estructura del proyecto
 
 ```
-benilaser-client/
+segunda-linea-server/
 ├── public/ (Contiene las imágenes del README.md)
 ├── .env.example (Contiene los ejemplos de las variables de entorno)
 ├── .gitignore (Contiene los archivos y carpetas que deben ser ignorados por git)
@@ -95,6 +94,6 @@ Para preguntas o colaboraciones, puedes contactarme a través de mis redes:
 
 ## Agradecimientos
 
-Me gustaría agradecer a todo el equipo de Seginda Línea por hacer posible esta colaboración.
+Me gustaría agradecer a todo el equipo de Segunda Línea Gastrobar por hacer posible esta colaboración.
 
-[Volver al inicio](#segunda-línea---sitio-web-servidor)
+[Volver al inicio](#segunda-línea-gastrobar---sitio-web-servidor)
